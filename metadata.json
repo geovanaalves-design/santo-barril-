@@ -1,0 +1,6 @@
+{
+  "name": "Santo Barril",
+  "description": "ERP e PDV completo para bares e restaurantes: mesas, pedidos, cozinha/bar, estoque, compras, financeiro e gestão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
